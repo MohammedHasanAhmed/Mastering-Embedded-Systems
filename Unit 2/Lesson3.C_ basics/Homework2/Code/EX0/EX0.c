@@ -1,5 +1,5 @@
 /*
- * main.c
+* main.c
  *
  *  Created on: Jul 18, 2023
  *      Author: mohammed_hasan
