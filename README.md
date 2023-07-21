@@ -1,3 +1,3 @@
-# Master-Embedded-Systems
+# Mastering-Embedded-Systems
 
 ## Mohammed-Hasan
