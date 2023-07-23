@@ -33,5 +33,14 @@ int main()
 	// Using library function
 	//printf("Reverse string is : %s\n",strrev(str));
 
+
+	//   Anther solution
+	//	for(i = strlen(str) - 1 ; i>=0; i--)
+	//	{
+	//		putchar(str[i]);
+	//	}
+
+
+
 	return 0;
 }
