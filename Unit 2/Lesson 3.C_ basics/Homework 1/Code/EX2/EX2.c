@@ -1,4 +1,4 @@
-//C Program to Print a Integer Entered by a User
+//C Program to Print an Integer Entered by a User
 
 #include <stdio.h>
 
