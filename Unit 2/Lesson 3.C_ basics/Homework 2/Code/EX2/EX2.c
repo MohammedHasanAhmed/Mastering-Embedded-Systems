@@ -1,4 +1,4 @@
-//C Program to Check Vowel or Consonant
+//C Program to Check Vowel or Consonant 
 #include <stdio.h>
 
 int main()
