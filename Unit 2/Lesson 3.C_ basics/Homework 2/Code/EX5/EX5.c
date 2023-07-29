@@ -1,4 +1,4 @@
-//C Program to Check Whether a Character is an Alphabet or not
+//C Program to Check Whether a Character is an Alphabet or not 
 #include <stdio.h>
 
 int main()
