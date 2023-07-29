@@ -1,4 +1,4 @@
-//C Program to Calculate Sum of Natural Numbers
+//C Program to Calculate Sum of Natural Numbers 
 #include <stdio.h>
 
 int main()
