@@ -9,17 +9,21 @@
 
 void reverse();
 
-int main() {
-
+int main()
+{
 	printf("Enter a sentence: ");
 	reverse();
+
 	return 0;
 }
 
-void reverse() {
+void reverse()
+{
 	char c;
 	scanf("%c", &c);
-	if (c != '\n') {
+
+	if (c != '\n')
+	{
 		reverse();
 		printf("%c", c);
 	}
