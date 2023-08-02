@@ -18,7 +18,9 @@ int main()
 	fflush(stdin);fflush(stdout);
 	gets(str);
 
+	printf("=====================================\n");
 	reverse(str);
+	printf("\n=====================================");
 	reverse2(str);
 
 	return 0;
@@ -55,3 +57,4 @@ void reverse2(char str[])
 	}
 	printf("\nReverse string is : %s\n" , str);
 }
+/****************************************************/
