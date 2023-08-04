@@ -43,3 +43,4 @@ int Check_PrimeNum(int num)
 	}
 	return flag;
 }
+ 
