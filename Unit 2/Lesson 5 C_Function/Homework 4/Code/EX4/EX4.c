@@ -32,10 +32,3 @@ int power(int base , int exp)
 		return 1;
 
 }
-<<<<<<< HEAD
-
- 
-=======
- 
-
->>>>>>> 1a98580013a02eb9e9f353e6fae4b9ef9156ae46
