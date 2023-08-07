@@ -1,6 +1,6 @@
 /*
  * EX1.c
- *
+ * ==>> find the sum of Two Matrix 2D Array <<==
  *  Created on: Jul 20, 2023
  *      Author: Mohammed Hasan
  */
