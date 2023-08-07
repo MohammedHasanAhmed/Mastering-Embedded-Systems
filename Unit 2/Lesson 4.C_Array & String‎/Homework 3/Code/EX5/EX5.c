@@ -1,6 +1,6 @@
 /*
  * EX5.c
- *
+ * ==>> Search an Element in Array <<==
  *  Created on: Jul 20, 2023
  *      Author: Mohammed Hasan
  */
