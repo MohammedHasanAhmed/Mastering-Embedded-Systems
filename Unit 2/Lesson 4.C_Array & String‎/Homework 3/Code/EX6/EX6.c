@@ -1,6 +1,6 @@
 /*
  * EX6.c
- *
+ * ==>> Find the Frequency of Characters in a String <<==
  *  Created on: Jul 22, 2023
  *      Author: Mohammed Hasan
  */
