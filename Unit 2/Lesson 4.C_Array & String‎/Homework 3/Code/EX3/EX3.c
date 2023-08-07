@@ -1,6 +1,6 @@
 /*
  * EX3.c
- *
+ * ==>> Find Transpose of a Matrix <<==
  *  Created on: Jul 20, 2023
  *      Author: Mohammed Hasan
  */
