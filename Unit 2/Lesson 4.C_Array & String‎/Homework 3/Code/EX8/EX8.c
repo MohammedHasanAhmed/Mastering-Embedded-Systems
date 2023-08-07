@@ -1,6 +1,6 @@
 /*
  * EX8.c
- *
+ * ==>> Reverse String <<==
  *  Created on: Jul 23, 2023
  *      Author: Mohammed Hasan
  */
