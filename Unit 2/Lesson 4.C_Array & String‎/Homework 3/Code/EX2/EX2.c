@@ -1,6 +1,6 @@
 /*
  * EX2.c
- *
+ * ==>> Calculate Average&Sum Using Arrays <<==
  *  Created on: Jul 20, 2023
  *      Author: Mohammed Hasan
  */
