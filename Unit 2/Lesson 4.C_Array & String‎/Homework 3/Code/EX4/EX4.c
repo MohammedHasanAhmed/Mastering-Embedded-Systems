@@ -1,6 +1,6 @@
 /*
  * EX4.c
- *
+ * ==>> Insert an Element in an Array <<==
  *  Created on: Jul 20, 2023
  *      Author: Mohammed Hasan
  */
