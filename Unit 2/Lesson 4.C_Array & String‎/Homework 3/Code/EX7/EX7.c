@@ -1,6 +1,6 @@
 /*
  * EX7.c
- *
+ * ==>> Find Length of String <<==
  *  Created on: Jul 22, 2023
  *      Author: Mohammed Hasan
  */
