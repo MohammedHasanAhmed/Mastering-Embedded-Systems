@@ -9,7 +9,7 @@
 
 # CONTENTS
 
-## First Term <img src="https://progress-bar.dev/40/?title=In Progress&color=6698FF &width=500"> 
+## First Term <img src="https://progress-bar.dev/50/?title=In Progress&color=6698FF &width=500"> 
 
 * Unit 1: Diploma Prerequisites <img src="https://progress-bar.dev/100/?title=Done &color=0909FF &width=150">
 
