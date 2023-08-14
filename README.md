@@ -22,5 +22,5 @@
   * [Lesson 5 : C Functions‎](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%205%20C_Function/Homework%204) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [Lesson 5 : C Functions_Quiz‎](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%205%20C_Function_Quiz) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [Mid Term 1](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Mid_Term%201) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-  * [Lesson 6 : Structures_Union_Enum‎](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%206%20Structures_Union_Enum%E2%80%8E) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * [Lesson 6 : Structures_Union_Enum‎]() <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
 
