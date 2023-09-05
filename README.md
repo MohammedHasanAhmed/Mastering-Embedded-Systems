@@ -24,5 +24,5 @@
   * [Mid Term 1](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Mid_Term%201) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [Lesson 6 : Structures_Union_Enum‎](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%206%20Structures_Union_Enum%E2%80%8E) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * Lesson 7 : Pre-processor directives <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-  * [Lesson 8 : C Pointers](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%208%20C_Pointers) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * [Lesson 8 : C Pointers](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%208%20C_Pointers) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
 
