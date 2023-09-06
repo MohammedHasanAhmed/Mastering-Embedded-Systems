@@ -13,7 +13,7 @@ ___
 ___
 
 
-*<h1 align="center">💻First Term <img src="https://progress-bar.dev/50/?title=In Progress&color=6698FF &width=500"></h1>*
+*<h1 align="center">* 💻*First Term <img src="https://progress-bar.dev/50/?title=In Progress&color=6698FF &width=500"></h1>*
 
 ___
 
