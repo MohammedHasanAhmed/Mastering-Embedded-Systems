@@ -27,3 +27,5 @@
   * [Lesson 8 : C Pointers](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%202/Lesson%208%20C_Pointers) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   
 * [Unit 3 : Embedded C](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson1) <img src="https://progress-bar.dev/0/?title=In Progress&color=0909FF &width=150">
+
+  * [EmbeddedC_Lesson1‎](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson1) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
