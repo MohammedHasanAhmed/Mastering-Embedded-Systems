@@ -48,8 +48,8 @@ LED_Toggle_PA13.bin \
 all: LED_Toggle_PA13.elf secondary-outputs
 
 # Tool invocations
-LED_Toggle_PA13.elf: $(OBJS) $(USER_OBJS) C:\Users\mohas\OneDrive\Desktop\Led_Toggle\LED_Toggle_PA13\STM32F103C6TX_FLASH.ld
-	arm-none-eabi-gcc -o "LED_Toggle_PA13.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Users\mohas\OneDrive\Desktop\Led_Toggle\LED_Toggle_PA13\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED_Toggle_PA13.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+LED_Toggle_PA13.elf: $(OBJS) $(USER_OBJS) C:\Users\mohas\OneDrive\Desktop\LED_Toggle_PA13\LED_Toggle_PA13\STM32F103C6TX_FLASH.ld
+	arm-none-eabi-gcc -o "LED_Toggle_PA13.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Users\mohas\OneDrive\Desktop\LED_Toggle_PA13\LED_Toggle_PA13\STM32F103C6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="LED_Toggle_PA13.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
