@@ -3,14 +3,7 @@
 ____
 
 
-![Learn-In-Depth](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/c5cdedac-4e27-417c-9407-19fc3bc76380)
-
-____
-
-
-## 📊*My_Progress_Profile : [Click Here](https://www.learn-in-depth.com/online-diploma/mohasanbder%40gmail.com)*
-
-## 👨‍💻*My_Google_Drive : [Click Here](https://drive.google.com/drive/folders/12E_AYuDfyiHSK8VVYqUD6VCEf9dlwKyd)*
+![my_Progress](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/2180326d-998f-43df-ae3a-18a97dae820a)
 
 ___
 
@@ -51,3 +44,15 @@ ___
   * [***EmbeddedC_Lesson1‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson1) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***EmbeddedC_Lesson2‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson2) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
 
+  
+___ 
+
+
+![Learn-In-Depth](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/c5cdedac-4e27-417c-9407-19fc3bc76380)
+
+____
+
+
+## 📊*My_Progress_Profile : [Click Here](https://www.learn-in-depth.com/online-diploma/mohasanbder%40gmail.com)*
+
+## 👨‍💻*My_Google_Drive : [Click Here](https://drive.google.com/drive/folders/12E_AYuDfyiHSK8VVYqUD6VCEf9dlwKyd)*
