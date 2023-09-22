@@ -1,0 +1,35 @@
+/*==========================================================================
+ Name        : linker_script.ld
+ Author      : Mohammed Hassan
+ Created on	 : 9/22/2023
+ Description : Unit 3 ==>> Lesson 4 ==>> Lab(3)
+ ==========================================================================*/
+MEMORY
+{
+	flash(RX) : ORIGIN = 0x00000000, LENGTH = 256M
+	sram(RWX) : ORIGIN = 0x20000000, LENGTH = 256M
+}
+
+SECTIONS
+{
+	.text : {
+		*(.vectors*)
+		*(.text*)
+		*(.rodata*)
+		_E_Text = . ;
+	}>flash
+
+	.data : {
+		_S_Data = . ;
+		*(.data*)
+		. = ALIGN(4);
+		_E_Data = . ;
+	}>sram AT> flash
+	
+	.bss : {
+		_S_Bss = . ;
+		*(.bss*)
+		. = ALIGN(4);
+		_E_Bss = . ;
+	}>sram
+}
