@@ -40,12 +40,13 @@ ___
 ___ 
 
 
-### [*Unit 3 : Embedded C*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203) <img src="https://progress-bar.dev/40/?title=In Progress&color=0909FF &width=150">
+### [*Unit 3 : Embedded C*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203) <img src="https://progress-bar.dev/90/?title=In Progress&color=0909FF &width=150">
 
   * [***EmbeddedC_Lesson1‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson1) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***EmbeddedC_Lesson2‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson2) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***EmbeddedC_Lesson3‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson3) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-
+  * [***EmbeddedC_Lesson4‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203/Embedded%20C_Lesson4) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * [***EmbeddedC_Lesson5‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%203) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
   
 ___ 
 
