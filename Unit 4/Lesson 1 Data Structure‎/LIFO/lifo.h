@@ -8,6 +8,7 @@
  */
 
 #include <stdio.h>
+#include <stdint.h>
 #ifndef LIFO_H_
 #define LIFO_H_
 
