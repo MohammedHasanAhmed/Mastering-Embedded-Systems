@@ -51,11 +51,11 @@ ___
 ___ 
 
 
-### [*Unit 4 : System Architect*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%201%20Data%20Structure%E2%80%8E) <img src="https://progress-bar.dev/30/?title=In Progress &color=0909FF &width=150">
+### [*Unit 4 : System Architect*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204) <img src="https://progress-bar.dev/70/?title=In Progress &color=0909FF &width=150">
 
   * [***Data Structure‎_Lesson 1***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%201%20Data%20Structure%E2%80%8E) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-  * [***Embedded Systems Architecting_Lesson 2***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%201%20Data%20Structure%E2%80%8E) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
-  * [***Embedded Systems Architecting_Lesson 3‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%201%20Data%20Structure%E2%80%8E) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * [***Embedded Systems Architecting_Lesson 2***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%202%20Embedded%20systems%20architecting) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * [***Embedded Systems Architecting_Lesson 3‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
   
 ___ 
 
