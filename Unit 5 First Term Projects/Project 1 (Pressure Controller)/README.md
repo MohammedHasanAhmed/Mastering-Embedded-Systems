@@ -1,6 +1,6 @@
 ## *High pressure detector project based on STM32F103C6 board with Cortex-M3*
 
-[![Pressure Controller](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/4029e351-9745-45e2-82b9-5ef1be6b31e4)](https://drive.google.com/drive/folders/1vEVp4N7octn7U4ytkm7Itkuxo1-2lHPz)
+![Pressure Controller](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/4029e351-9745-45e2-82b9-5ef1be6b31e4)
 
 # *Case Study*
 
