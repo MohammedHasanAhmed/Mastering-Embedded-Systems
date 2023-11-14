@@ -51,13 +51,22 @@ ___
 ___ 
 
 
-### [*Unit 4 : System Architect*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204) <img src="https://progress-bar.dev/70/?title=In Progress &color=0909FF &width=150">
+### [*Unit 4 : System Architect*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF &width=150">
 
   * [***Data Structure‎_Lesson 1***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%201%20Data%20Structure%E2%80%8E) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***Embedded Systems Architecting_Lesson 2***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204/Lesson%202%20Embedded%20systems%20architecting) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***Embedded Systems Architecting_Lesson 3‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%204) <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
   
 ___ 
+
+
+### [*Unit 5 : First Term Projects*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%205%20First%20Term%20Projects) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF &width=150">
+
+  * [***Project 1 : Pressure Controller***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%205%20First%20Term%20Projects/Project%201%20(Pressure%20Controller)) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * [***Project 2 : Student Management System***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%205%20First%20Term%20Projects/Project%202%20(Student%20Management%20System)) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  
+  
+___
 
 
 ![Learn-In-Depth](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/c5cdedac-4e27-417c-9407-19fc3bc76380)
