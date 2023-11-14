@@ -1,0 +1,6 @@
+1   Mohammed Hassan     3.2     10 15 16 19 20
+2   Khaled   Alaa       2.7     12 16 20 14 13
+3   Mohammed Goda       3.7     15 11 10 13 17
+1   Yahya    Amr        2.8     16 20 14 13 12
+4   Mahmoed  nour       3.9     19 20 12 15 16
+5   Salma    Ahmed      3.5     12 15 16 18 19
