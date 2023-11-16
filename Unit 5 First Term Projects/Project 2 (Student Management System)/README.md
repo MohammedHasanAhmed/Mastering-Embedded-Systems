@@ -1,6 +1,6 @@
 ## *<h1 align="center">Student Management System</h1>*
 
-[![Student Management System1](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/8ac591b4-d775-44a5-9be5-8dc0d5f6755c)](https://drive.google.com/drive/folders/1MSCg4rbh8__0Wvcw9RTDInywA-qke6Ts)
+[![Student Management System1](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/8ac591b4-d775-44a5-9be5-8dc0d5f6755c)](https://drive.google.com/file/d/1K4cyJ77HdyprEyAJc6bviGqD-ASmFncz/view?usp=drive_link)
 
 # ***Problem***
 
