@@ -3,7 +3,7 @@
 ____
 
 
-![my_Progress](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/64e80c00-9591-4cb8-8639-bb132d91b5a7)
+[![Progress page](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/94d798a0-72e8-48ed-a82a-ec171e3316d5)](https://www.learn-in-depth-store.com/certificate/mohasanbder%40gmail.com)
 
 
 ___
@@ -65,11 +65,29 @@ ___
   * [***Project 1 : Pressure Controller***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%205%20First%20Term%20Projects/Project%201%20(Pressure%20Controller)) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***Project 2 : Student Management System***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%205%20First%20Term%20Projects/Project%202%20(Student%20Management%20System)) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   
-  
+___ 
+
+*<h1 align="center">* 💻*Second Term <img src="https://progress-bar.dev/0/?title=In Progress &color=6698FF &width=500"></h1>*
 ___
 
+### *Unit 6 : Micro-controller Arch* <img src="https://progress-bar.dev/80/?title=In Progress &color=0909FF &width=150">
 
-![Learn-In-Depth](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/c5cdedac-4e27-417c-9407-19fc3bc76380)
+  * ***Lesson 1 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * ***Lesson 2 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * ***Lesson 3 : MCU_Clocks‎*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * ***Lesson 4 : MCU_Interrupts‎*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  
+___ 
+
+### *Unit 7 : MCU Essential Peripherals* <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF &width=150">
+
+  * ***Lesson 1 : GPIO Part1*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * ***Lesson 2 : GPIO Part2*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * ***Lesson 3 : GPIO Part3*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * ***Lesson 4 : EXTI‎*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+___ 
+
+![First Term](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/assets/123543218/d0087447-bcab-48f1-a797-8d75da7a1854)
 
 ____
 
