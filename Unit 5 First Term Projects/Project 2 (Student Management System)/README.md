@@ -12,7 +12,7 @@
 *	***Store GPA for each student.***
 *	***Store Courses Registered by the student.***
 ___
-# ***Approch***
+# ***Approach***
 
 ## ***There are 10 options in this Program***
 
