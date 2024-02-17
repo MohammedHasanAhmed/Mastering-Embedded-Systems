@@ -74,7 +74,7 @@ ___
 
   * ***Lesson 1 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * ***Lesson 2 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-  * ***Lesson 3 : MCU_Clocks‎*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * [***Lesson 3 : MCU_Clocks‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%206) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * ***Lesson 4 : MCU_Interrupts‎*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
   
 ___ 
