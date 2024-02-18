@@ -72,7 +72,7 @@ ___
 
 ### *Unit 6 : Micro-controller Arch* <img src="https://progress-bar.dev/80/?title=In Progress &color=0909FF &width=150">
 
-  * ***Lesson 1 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
+  * [***Lesson 1 : MCU_Fundamentals***](https://drive.google.com/drive/folders/1cN4hrHIjIrBzx-kaTXbY7AMq2aIaflOm?usp=drive_link) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * ***Lesson 2 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***Lesson 3 : MCU_Clocks‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%206) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * ***Lesson 4 : MCU_Interrupts‎*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
