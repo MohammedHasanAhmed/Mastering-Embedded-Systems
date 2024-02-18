@@ -67,15 +67,15 @@ ___
   
 ___ 
 
-*<h1 align="center">* 💻*Second Term <img src="https://progress-bar.dev/0/?title=In Progress &color=6698FF &width=500"></h1>*
+*<h1 align="center">* 💻*Second Term <img src="https://progress-bar.dev/20/?title=In Progress &color=6698FF &width=500"></h1>*
 ___
 
-### *Unit 6 : Micro-controller Arch* <img src="https://progress-bar.dev/80/?title=In Progress &color=0909FF &width=150">
+### [*Unit 6 : Micro-controller Arch*](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%206) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF &width=150">
 
   * [***Lesson 1 : MCU_Fundamentals***](https://drive.google.com/drive/folders/1cN4hrHIjIrBzx-kaTXbY7AMq2aIaflOm?usp=drive_link) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * ***Lesson 2 : MCU_Fundamentals*** <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   * [***Lesson 3 : MCU_Clocks‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%206) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
-  * ***Lesson 4 : MCU_Interrupts‎*** <img src="https://progress-bar.dev/0/?title=In Progress &color=0909FF">
+  * [***Lesson 4 : MCU_Interrupts‎***](https://github.com/MohammedHasanAhmed/Mastering-Embedded-Systems/tree/main/Unit%206/Lesson%204%20MCU_Interrupts/Lab1_Lesson4_Unit6) <img src="https://progress-bar.dev/100/?title=Done &color=0909FF">
   
 ___ 
 
